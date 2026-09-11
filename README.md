@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Luna
+# ¡Hola! Soy Luna 🌙
 
 💻 Aprendiendo desarrollo web  
 🌱 Actualmente aprendiendo JavaScript  
